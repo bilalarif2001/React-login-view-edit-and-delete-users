@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "ayesha asdasd",
+      "gender": "Female",
+      "birthday": "2002-06-21",
+      "email": "abc@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "name": "anam",
+      "gender": "Female",
+      "birthday": "2002-06-21",
+      "email": "anam@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 3,
+      "name": "khizer",
+      "gender": "Male",
+      "birthday": "2002-06-21",
+      "email": "khizer@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 4,
+      "name": "bilal",
+      "gender": "Male",
+      "birthday": "2002-06-21",
+      "email": "bilal@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 5,
+      "name": "muzammil ",
+      "gender": "Male",
+      "birthday": "2002-06-21",
+      "email": "muzammil@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 6,
+      "name": "kamran ",
+      "gender": "Male",
+      "birthday": "2002-06-21",
+      "email": "kamran@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 7,
+      "name": "hussnain asdasd",
+      "gender": "Male",
+      "birthday": "2002-06-21",
+      "email": "hussnain@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 8,
+      "name": "Bilal Arif",
+      "gender": "Male",
+      "birthday": "2007-02-14",
+      "email": "yoyo@gmail.com",
+      "password": "abc"
+    },
+    {
+      "id": 9,
+      "name": "David",
+      "gender": "Male",
+      "birthday": "1997-02-22",
+      "email": "david@gmail.com",
+      "password": "abc"
+    },
+    {
+      "id": 10,
+      "name": "Javed",
+      "gender": "Male",
+      "birthday": "1997-02-22",
+      "email": "javed@gmail.com",
+      "password": "abc"
+    }
+  ]
+}
